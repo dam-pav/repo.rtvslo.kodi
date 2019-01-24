@@ -20,5 +20,5 @@ Should you have any, please [submit an issue](https://github.com/dam-pav/repo.rt
 
 List of addons available
 ------------------------
-* plugin.video.rtvslo-podcast
-* plugin.video.rtvslo-live
+* plugin.rtvslo.podcast
+* plugin.rtvslo.live
