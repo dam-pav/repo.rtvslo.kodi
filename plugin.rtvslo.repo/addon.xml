@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.rtvslo.repo" name="RTV Slovenija Add-on Repository" version="1.0.0" provider-name="dam-pav">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.repository" name="RTV Slovenija Add-on Repository">
+		<info compressed="false">https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/</datadir>
+		<hashes>true</hashes>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="sl">Namestitev Kodi dodatkov za predvajanje vsebin RTV Slovenija</summary>
+		<summary lang="en">Installation of Kodi add-ons for playing content from RTV Slovenija</summary>
+		<description lang="en">Download and install add-ons to get access to content from RTV Slovenija.</description>
+		<description lang="sl">Snemite in namestite dodatke za dostop do vsebin RTV Slovenija</description>
+		<disclaimer lang="en">The software is provided as-is and comes with no warranty whatsoever.[CR][CR]The author of the software does not provide the media[CR]content nor does he gain from its consumption.[CR][CR]All responsibility for the comsumption lies with the consumer.[CR]</disclaimer>
+		<disclaimer lang="sl">Programska oprema je kakršna je, brez kakršnekoli garancije.[CR][CR]Avtor programske opreme ne zagotavlja medijske vsebine,[CR]niti nima nikakršne koristi pvezane z njenim predvajanjem.[CR][CR]Vse odgovornosti prevzema končni uporabnik medijskih vsebin.[CR]</disclaimer>
+		<platform>all</platform>
+		<website>http://dam-pav.eu5.org</website>
+	</extension>
+</addon>
