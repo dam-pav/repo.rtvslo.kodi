@@ -8,7 +8,6 @@
 		<info compressed="false">https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/</datadir>
-		<hashes>true</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="sl">Namestitev Kodi dodatkov za predvajanje vsebin RTV Slovenija</summary>
