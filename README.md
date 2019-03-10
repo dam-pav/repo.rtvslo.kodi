@@ -12,7 +12,9 @@ The goal of this KODI Add-on repository is primarily to make it easier:
 
 Usage
 -----
-Download the repository zip and install it into KODI.
+Download the repository addon zip from the [DAM-PAV website](https://dam-pav.guthub.io) and install it into KODI.
+
+Do not try to download this repository by itself; if you want individual addons contained they can be retrieved from their respective Github repositories.
 
 Questions, Comments, Concerns, Issues
 -------------------------------------
