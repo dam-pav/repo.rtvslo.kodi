@@ -2,7 +2,7 @@ RTV Slovenija KODI Repository
 =========================
 
 * Author:	dam-pav
-* Last Update:	April, 2019
+* Last Update:	October, 2020
 * Version:	1.0.0
 * Github:	<https://github.com/dam-pav/repo.rtvslo.kodi>
 
